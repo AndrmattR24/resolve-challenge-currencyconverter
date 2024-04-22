@@ -15,3 +15,12 @@ en el desarrollo Java!</p>
 
 ##  🔨 Funcionalidades del proyecto
 
+<p style="color:cyan;font-weight:bold;">Menu De Operaciones Posibles</p>
+<img src="assets/menu.jpg">
+
+<p style="color:cyan;font-weight:bold;">Ingresando Monto</p>
+<img src="assets/operacion.jpg">
+
+<p style="color:cyan;font-weight:bold;">Resultado Conversion</p>
+<img src="assets/resultado.jpg">
+
